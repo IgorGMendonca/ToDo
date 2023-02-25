@@ -20,7 +20,7 @@ Realizei um ToDo List como teste na Rocketseat! <br/>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - React.js
-- HTML & CSS
+- HTML & SCSS
 - TypeScript
 
 ## 💻 Projeto
