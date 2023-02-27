@@ -1,4 +1,4 @@
-<h1 align="center"> Portfólio </h1>
+<h1 align="center"> ToDo List </h1>
 
 <p align="center">
 Página ToDo realizada no desafio Ignite da Rocketseat! <br/>
